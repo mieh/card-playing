@@ -14,4 +14,8 @@ class Deck
       puts card.view
     end
   end
+
+  def shuffle(method)
+    method.shuffle(@cards)
+  end
 end
