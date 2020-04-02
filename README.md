@@ -14,3 +14,12 @@ A♣, 2♣, 3♣, 4♣ .... so on
 A♦, 2♦, 3♦, 4♦ .... so on
 A♥, 2♥, 3♥, 4♥ .... so on
 A♠, 2♠, 3♠, 4♠ .... so on
+
+## Phase 2
+
+From Phase 1, create 1 method/ function to shuffle the deck 3 times.
+
+Output:
+
+deck of cards with unsorted/ shuffled in an array, with the first is top of a deck face down,
+and the last is buttom of a deck.
